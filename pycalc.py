@@ -10,5 +10,6 @@ def calcul(number1,signe,number2):
         return number1 * number2 
     else:
         print("nah")
-a = calcul(20, "+", 30)
+a = calcul(420, "+", 67)
+
 print(a)
